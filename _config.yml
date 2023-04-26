@@ -65,12 +65,15 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://bot-zz.github.io"
+      
     - label: "E-mail: lindong1998@outlook.com"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      icon: "fas fa-fw fa-link"
+      url: "https://outlook.com/"
+      
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bot-zz"
+      
     - label: "Baidu"
       icon: "fab fa-fw fa-instagram"
       url: "https://baidu.com/"
