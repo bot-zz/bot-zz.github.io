@@ -60,15 +60,15 @@ plugins:
 author:
   name   : "Alcibiade lin"
   avatar : "/assets/images/pic6.jpg"
-  bio    : "Look at my selfie above, what a hdsm man."
+  bio    : "Look at my selfie above, what a hdsm man!"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://bot-zz.github.io"
-      
     - label: "E-mail: lindong1998@outlook.com"
       icon: "fas fa-fw fa-link"
       url: "https://outlook.com/"
+      
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://bot-zz.github.io"
       
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
