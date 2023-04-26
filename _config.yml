@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "ddd lll"
   avatar : "/assets/images/pic6.jpg"
-  bio    : "i am really a handsome man, without any question."
+  bio    : "Look at my selfie above, i am really a handsome man, without any doubt."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
