@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "ddd lll"
-  avatar : "/assets/images/pic4.jpg"
+  avatar : "/assets/images/pic6.jpg"
   bio    : "i am really a handsome man, without any question."
   links:
     - label: "Website"
@@ -71,9 +71,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bot-zz"
-    - label: "Instagram"
+    - label: "Baidu"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://baidu.com/"
 
 footer:
   links:
