@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "d l"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "handsome."
+  avatar : "/assets/images/pic3.jpg"
+  bio    : "i am handsome."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
