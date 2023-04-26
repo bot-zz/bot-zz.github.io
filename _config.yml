@@ -65,7 +65,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://bot-zz.github.io"
-    - label: "Twitter"
+    - label: "E-mail: lindong1998@outlook.com"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
@@ -74,7 +74,6 @@ author:
     - label: "Baidu"
       icon: "fab fa-fw fa-instagram"
       url: "https://baidu.com/"
-      - label: "E-mail: lindong1998@outlook.com"
 
 
 footer:
