@@ -10,4 +10,4 @@ tags:
 
 under construction! 
 
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+![Image text](https://github.com/bot-zz/bot-zz.github.io/blob/master/assets/images/p7.jpg)
