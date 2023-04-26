@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my blog!"
-date: 2023-04-26T15:34:30-04:00
+date: 2023-04-26
 categories:
   - blog
 tags:
@@ -8,6 +8,4 @@ tags:
 ---
 
 
-
-under construction! 
 
