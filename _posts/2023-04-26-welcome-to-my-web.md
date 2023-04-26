@@ -13,5 +13,3 @@ hahaha
 
 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-
