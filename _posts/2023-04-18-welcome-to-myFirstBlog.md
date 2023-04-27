@@ -13,5 +13,4 @@ under construction！
 uu
 
 
-![Image text](https://github.com/bot-zz/bot-zz.github.io/blob/master/assets/images/pic5.jpg)
-
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/pic5.jpg){: .align-center}
