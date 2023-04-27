@@ -18,7 +18,10 @@ under construction！
 aa
 
 
-
+<figure style="width: 1200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pic5" alt="">
+  <figcaption>Massive image comment for your eyeballs.</figcaption>
+</figure> 
 
 <img scr = 'https://github.com/bot-zz/bot-zz.github.io/blob/master/assets/images/pic5.jpg'>
 
