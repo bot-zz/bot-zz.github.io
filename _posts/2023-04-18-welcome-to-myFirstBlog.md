@@ -7,15 +7,11 @@ tags:
   - first blog
 
 
-image: https://github.com/bot-zz/bot-zz.github.io/blob/master/assets/images/p7.jpg
-
-
 ---
 
 under construction！
 
 
-aa
 
 
 <figure style="width: 1200px">
