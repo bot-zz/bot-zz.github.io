@@ -7,7 +7,7 @@ tags:
   - first blog
 
 header:
-  image: https://live.staticflickr.com/8084/8396909762_813a2b1829_h.jpg
+  image: https://github.com/bot-zz/bot-zz.github.io/blob/master/assets/images/pic5.jpg
 
 
 ---
@@ -19,7 +19,7 @@ aa
 
 
 <figure style="width: 1200px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pic5" alt="">
+  <img src="{{ github.com/bot-zz/bot-zz.github.io/blob/master/ }}{{ site.baseurl }}/assets/images/pic5" alt="">
   <figcaption>Massive image comment for your eyeballs.</figcaption>
 </figure> 
 
