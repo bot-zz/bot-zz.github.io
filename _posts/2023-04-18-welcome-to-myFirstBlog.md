@@ -7,7 +7,7 @@ tags:
   - first blog
 
 
-  image: https://github.com/bot-zz/bot-zz.github.io/blob/master/assets/images/p7.jpg
+image: https://github.com/bot-zz/bot-zz.github.io/blob/master/assets/images/p7.jpg
 
 
 ---
