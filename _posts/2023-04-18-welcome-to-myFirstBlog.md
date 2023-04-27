@@ -10,7 +10,11 @@ tags:
 under construction！
 
 
-uu
+aa
 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/pic5.jpg){: .align-center}
+
+```html
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pic5.jpg" alt="">{% endraw %}
+```
+
