@@ -18,4 +18,4 @@ aa
 {% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pic5.jpg" alt="">{% endraw %}
 ```
 
-<img scr = '图片地址'>
+<img scr = 'https://github.com/bot-zz/bot-zz.github.io/blob/master/assets/images/pic5.jpg'>
