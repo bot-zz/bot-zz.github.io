@@ -7,7 +7,7 @@ tags:
   - first blog
 
 header:
-  image: https://github.com/bot-zz/bot-zz.github.io/blob/master/assets/images/pic5.jpg
+  image: https://github.com/bot-zz/bot-zz.github.io/blob/master/assets/images/p7.jpg
 
 
 ---
