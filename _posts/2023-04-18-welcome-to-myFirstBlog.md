@@ -14,6 +14,6 @@ under construction！
 
 
 ![有帮助的截图]({{ site.url }}/assets/images/p7.jpg)
-<img src="{{ github.com/bot-zz/bot-zz.github.io/blob/master/ }}{{ site.baseurl }}/assets/images/pic5.jpg" alt="">
+<img src="{{ github.com/bot-zz/bot-zz.github.io/blob/master/ }}{{ site.baseurl }}/assets/images/pic6.jpg" alt="">
 
 
