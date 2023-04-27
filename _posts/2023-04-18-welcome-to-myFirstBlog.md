@@ -17,3 +17,4 @@ aa
 
 <img scr = 'https://github.com/bot-zz/bot-zz.github.io/blob/master/assets/images/pic5.jpg'>
 
+{% capture fig_img %} ![Foo]({{ "/assets/images/pic5.jpg" | relative_url }}) {% endcapture %}
