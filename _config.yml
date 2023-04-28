@@ -70,7 +70,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://bot-zz.github.io"
       
-    - label: "GitHub: github.com/bot-zz"
+    - label: **"GitHub: github.com/bot-zz"**
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bot-zz"
       
