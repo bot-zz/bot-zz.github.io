@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog!"
+title: "Welcome to my blog!(Click me)"
 date: 2023-04-26
 categories:
   - blog
